@@ -32,3 +32,6 @@ Y|Y|${HOME}/.local/share|dolphin|dolphin
 Y|Y|${HOME}/.local/share/kxmlgui5|dolphin|dolphin
 Y|Y|${HOME}/.local/share/kio/servicemenus|hydewallpaper.desktop|dolphin
 N|Y|${HOME}/.config|libinput-gestures.conf|libinput-gestures
+Y|Y|${HOME}/.config|electron-flags.conf| vesktop-bin
+Y|Y|${HOME}/.config|spotify-flags.conf| spotify-launcher
+Y|Y|${HOME}/.config|code-flags.conf| vscoidum-bin
